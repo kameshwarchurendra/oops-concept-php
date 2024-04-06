@@ -27,8 +27,8 @@ What is Class and Object?
   $users =  New user();
   $user =  New user();
 
-  $users->setData('1','kameshwar','kameshwar@gmail.com','7869677560');
-  $user->setData('2','kammo','kammo@gmail.com','9977690840');
+  $users->setData('1','abcd','abcd@gmail.com','123456789');
+  $user->setData('2','abc','abc@gmail.com','123456789');
 
   echo $users->getData();
   echo $user->getData();
